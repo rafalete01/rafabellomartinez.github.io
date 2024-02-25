@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mejores cascos - AGV</title>
+  <link href="https://rafabellomartinez.github.io"/>
+  <author>
+    <name>Rafael Bello Martinez</name>
+  </author>
+  <id>https://rafabellomartinez.github.io/</id>
+  <updated>2024-02-24T12:00:00Z</updated>
+  <category term="Motor"/>
+  <rights>Derechos del Feed</rights>
+
+  
+
+  <entry>
+    <title>CASCO AGV K-1, GRAN RELACIÓN CALIDAD-PRECIO</title>
+    <id>http://cascos.com1</id>
+    <updated>2024-02-24T12:00:00Z</updated>
+    <link href="https://www.agv.com/es/es/integrales/k1-s/"/>
+    <author>
+      <name>a23bemara@iesgrancapitan.org(rafael bello martinez)</name>
+      <uri>https://www.agv.com/es/es/integrales/k1-s/</uri>
+    </author>
+    <content type="html">https://www.agv.com/es/es/integrales/k1-s/</content>
+    <summary>casco</summary>
+  </entry>
+  
+
+  <entry>
+    <title>AGV AX9, EL CASCO ADVENTURE DE LA MARCA</title>
+    <id>http://cascos.com2</id>
+    <updated>2024-02-24T12:00:00Z</updated>
+    <link href="https://www.agv.com/es/es/integrales/ax9/"/>
+    <author>
+      <name>a23bemara@iesgrancapitan.org(rafael bello martinez)</name>
+      <uri>https://www.agv.com/es/es/integrales/ax9/</uri>
+    </author>
+    <content type="html">https://www.agv.com/es/es/integrales/ax9/</content>
+    <summary>casco</summary>
+  </entry>
+  
+
+  <entry>
+    <title>Langosta-noticia3</title>
+    <id>http://Langosta.com3</id>
+    <updated>2024-02-17T12:00:00Z</updated>
+    <link href="https://rafabello.github.io/cascosAGV.pdf"/>
+    <author>
+      <name>a23bemara@iesgrancapitan.org(rafael bello martinez)</name>
+      <uri>https://rafabellomartinez.github.io/cascosAGV.pdf</uri>
+    </author>
+    <content type="application/pdf" src="https://rafabellomartinez.github.io/cascosAGV.pdf"/>
+    <summary>cascos agv</summary>
+  </entry>
+  
+
+  <entry>
+    <title>REVIEW CASCO K1</title>
+    <id>http://casco.com4</id>
+    <updated>2024-02-17T12:00:00Z</updated>
+    <link href="https://www.youtube.com/watch?v=00lwjnnZv9s"/>
+    <author>
+      <name>a23bemara@iesgrancapitan.org(rafael bello martinez)</name>
+      <uri>https://www.youtube.com/watch?v=00lwjnnZv9s</uri>
+    </author>
+    <content type="video/mp4" src=""/>
+    <summary>Casco</summary>
+  </entry>
+  
+</feed>

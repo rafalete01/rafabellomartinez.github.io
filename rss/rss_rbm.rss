@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Mejores cascos - AGV</title>
+    <link>https://rafabellomartinez.github.io/</link>
+    <description>Cascos de moto AGV, estos son los mejores cascos integrales</description>
+    <category>Motor</category>
+    <language>es-ES</language>
+    <lastBuildDate>Mon, 19 Feb 2024 11:00:00 GMT</lastBuildDate>
+    <managingEditor>rafalete01@gmail.com (Rafa bello)</managingEditor>
+
+    <image>
+      <url>https://rafabellomartinez.github.io/image/agv.jpeg</url>
+      <title>Mejores cascos - AGV</title>
+      <link>https://rafabellomartinez.github.io/</link>
+    </image>
+
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+
+    <skipHours>
+      <hour>0</hour>
+      <hour>1</hour>
+      <hour>2</hour>
+      <hour>3</hour>
+      <hour>4</hour>
+      <hour>5</hour>
+    </skipHours>
+
+    <item>
+      <title>CASCO AGV K-1, GRAN RELACIÓN CALIDAD-PRECIO</title>
+      <link>https://www.agv.com/es/es/integrales/k1-s/</link>
+      <description>el casco integral AGV K-1. Se trata de uno de los cascos de la marca más asequibles, pero que tiene una excelente relación calidad-precio.</description>
+      <author>rafalete01@gmail.com  (Rafa bello)</author>
+      <pubDate>Mon, 19 Feb 2024 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>AGV K-3 SV MAXVISION, LOS DOS CASCOS SPORT-TOURING</title>
+      <link>https://www.motocard.com/blog/reviews/cascos/casco-moto-agv-k-3-sv-maxvision-precio-opiniones/</link>
+      <description>Análisis en vídeo del nuevo casco de moto AGV K-3 SV Max Vision, un casco sport-touring con una buena relación calidad-precio. Te explicamos sus principales características y el precio.</description>
+      <author>rafalete01@gmail.com  (Rafa bello)</author>
+      <pubDate>Mon, 19 Feb 2024 10:00:00 GMT</pubDate>
+    </item>
+        <item>
+      <title>AGV AX9, EL CASCO ADVENTURE DE LA MARCA</title>
+      <link>https://www.agv.com/es/es/integrales/ax9/</link>
+      <description>Es un casco con una calota fabricada en una combinación de fibra de carbono, de vidrio y aramida y es extremadamente versátil</description>
+      <author>rafalete01@gmail.com (Rafa bello)</author>
+      <pubDate>Mon, 19 Feb 2024 04:00:00 GMT</pubDate>
+    </item>
+        <item>
+      <title>AGV PISTA GP RR , EL MEJOR CASCO DE MOTO DE AGV</title>
+      <link>https://www.motocard.com/blog/reviews/cascos/agv-pista-gp-rr-homologacion-fim-circuito/</link>
+      <description>Antes de nada; AGV Pista GP RR. ¿Por qué tanta R? Porque es un casco de competición, pensado para y por el circuito. Lo puedes llevar por carretera, sí, aunque es un casco de MotoGP. Mola, ¿eh? </description>
+      <author>rafalete01@gmail.com (Rafa bello)</author>
+      <pubDate>Mon, 19 Feb 2024 06:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
